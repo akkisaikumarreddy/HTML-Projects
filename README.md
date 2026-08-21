@@ -4,18 +4,18 @@ This repository contains 12 beginner-friendly projects built using **pure HTML**
 Each project demonstrates different HTML tags, structures, and concepts.
 
 ## 📂 Projects Included
-1. Resume Page (HTML only)
-2. Table-based Resume
-3. Portfolio Page
-4. Chessboard Layout
-5. About Section with `<details>` and `<summary>`
-6. Taco Shop Website (multi-page)
-7. Store Hours Page
-8. Contact Page
-9. Menu Table Example
-10. Trivial Facts with `<aside>`
-11. Image and Figure Examples
-12. Basic Navigation Links
+1. My Personal Homepage
+2. My Resume (Normal Format)
+3. My Resume (Table Format)
+4. Chessboard
+5. Animation of moving emojis 
+6. Animation of moving emojis 
+7. Job Searching Workshop
+8. Favorite Recipe
+9. Table Showcase
+10. Portfolio Mockup
+11. Hyperlinked Quest
+12. A Taco Shop Webpage
 
 ## 🚀 How to View
 - Clone the repository:
