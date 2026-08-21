@@ -4,18 +4,20 @@ This repository contains 12 beginner-friendly projects built using **pure HTML**
 Each project demonstrates different HTML tags, structures, and concepts.
 
 ## 📂 Projects Included
-1. My Personal Homepage
-2. My Resume (Normal Format)
-3. My Resume (Table Format)
-4. Chessboard
-5. Animation of moving emojis 
-6. Animation of moving emojis 
-7. Job Searching Workshop
-8. Favorite Recipe
-9. Table Showcase
-10. Portfolio Mockup
-11. Hyperlinked Quest
-12. A Taco Shop Webpage
+
+1. [My Personal Homepage](https://your-username.github.io/your-repo-name/homepage.html)
+2. [My Resume (Normal Format)](https://your-username.github.io/your-repo-name/resume.html)
+3. [My Resume (Table Format)](https://your-username.github.io/your-repo-name/resume-table.html)
+4. [Chessboard](https://your-username.github.io/your-repo-name/chessboard.html)
+5. [Animation of Moving Emojis](https://your-username.github.io/your-repo-name/emoji-animation1.html)
+6. [Animation of Moving Emojis (Second Version)](https://your-username.github.io/your-repo-name/emoji-animation2.html)
+7. [Job Searching Workshop](https://your-username.github.io/your-repo-name/job-workshop.html)
+8. [Favorite Recipe](https://your-username.github.io/your-repo-name/recipe.html)
+9. [Table Showcase](https://your-username.github.io/your-repo-name/table-showcase.html)
+10. [Portfolio Mockup](https://your-username.github.io/your-repo-name/portfolio.html)
+11. [Hyperlinked Quest](https://your-username.github.io/your-repo-name/quest.html)
+12. [A Taco Shop Webpage](https://your-username.github.io/your-repo-name/taco-shop.html)
+
 
 ## 🚀 How to View
 - Clone the repository:
