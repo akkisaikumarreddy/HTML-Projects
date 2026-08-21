@@ -5,18 +5,18 @@ Each project demonstrates different HTML tags, structures, and concepts.
 
 ## 📂 Projects Included
 
-1. [My Personal Homepage](https://your-username.github.io/your-repo-name/1_My_Personal_Homepage.html)
-2. [My Resume (Normal Format)](https://your-username.github.io/your-repo-name/resume.html)
-3. [My Resume (Table Format)](https://your-username.github.io/your-repo-name/resume-table.html)
-4. [Chessboard](https://your-username.github.io/your-repo-name/chessboard.html)
-5. [Animation of Moving Emojis](https://your-username.github.io/your-repo-name/emoji-animation1.html)
-6. [Animation of Moving Emojis (Second Version)](https://your-username.github.io/your-repo-name/emoji-animation2.html)
-7. [Job Searching Workshop](https://your-username.github.io/your-repo-name/job-workshop.html)
-8. [Favorite Recipe](https://your-username.github.io/your-repo-name/recipe.html)
-9. [Table Showcase](https://your-username.github.io/your-repo-name/table-showcase.html)
-10. [Portfolio Mockup](https://your-username.github.io/your-repo-name/portfolio.html)
-11. [Hyperlinked Quest](https://your-username.github.io/your-repo-name/quest.html)
-12. [A Taco Shop Webpage](https://your-username.github.io/your-repo-name/taco-shop.html)
+1. [My Personal Homepage](https://github.com/akkisaikumarreddy/HTML-Projects.git/1_My_Personal_Homepage.html)
+2. [My Resume (Normal Format)](https://github.com/akkisaikumarreddy/HTML-Projects.git/resume.html)
+3. [My Resume (Table Format)](https://github.com/akkisaikumarreddy/HTML-Projects.git/resume-table.html)
+4. [Chessboard](https://github.com/akkisaikumarreddy/HTML-Projects.git/chessboard.html)
+5. [Animation of Moving Emojis](https://github.com/akkisaikumarreddy/HTML-Projects.git/emoji-animation1.html)
+6. [Animation of Moving Emojis (Second Version)](https://github.com/akkisaikumarreddy/HTML-Projects.git/emoji-animation2.html)
+7. [Job Searching Workshop](https://github.com/akkisaikumarreddy/HTML-Projects.git/job-workshop.html)
+8. [Favorite Recipe](https://github.com/akkisaikumarreddy/HTML-Projects.git/recipe.html)
+9. [Table Showcase](https://github.com/akkisaikumarreddy/HTML-Projects.git/table-showcase.html)
+10. [Portfolio Mockup](https://github.com/akkisaikumarreddy/HTML-Projects.git/portfolio.html)
+11. [Hyperlinked Quest](https://github.com/akkisaikumarreddy/HTML-Projects.git/quest.html)
+12. [A Taco Shop Webpage](https://github.com/akkisaikumarreddy/HTML-Projects.git/taco-shop.html)
 
 
 ## 🚀 How to View
