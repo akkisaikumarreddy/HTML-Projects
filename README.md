@@ -1,6 +1,6 @@
 # HTML Projects Collection
 
-This repository contains 12 beginner-friendly projects built using **pure HTML** (no CSS or JavaScript).  
+This repository contains 13 beginner-friendly projects built using **pure HTML** (no CSS or JavaScript).  
 Each project demonstrates different HTML tags, structures, and concepts.
 
 ## 📂 Projects Included
