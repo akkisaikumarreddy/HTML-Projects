@@ -20,7 +20,7 @@ Each project demonstrates different HTML tags, structures, and concepts.
 ## 🚀 How to View
 - Clone the repository:
   ```bash
-  git clone https://github.com/akkisaikumarreddy/your.git
+  git clone https://github.com/akkisaikumarreddy/HTML-Projects.git
 
 📝 Notes
 <ul>
