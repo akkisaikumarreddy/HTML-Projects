@@ -20,7 +20,7 @@ Each project demonstrates different HTML tags, structures, and concepts.
 ## 🚀 How to View
 - Clone the repository:
   ```bash
-  git clone https://github.com/your-username/your-repo-name.git
+  git clone https://github.com/akkisaikumarreddy/your.git
 
 📝 Notes
 <ul>
