@@ -39,3 +39,6 @@ Each project demonstrates different HTML tags, structures, and concepts.
   <li>Figures and captions</li>
   <li>Semantic tags like <code>&lt;article&gt;</code>, <code>&lt;aside&gt;</code>, <code>&lt;abbr&gt;</code>, <code>&lt;time&gt;</code></li>
 </ul>
+
+<hr>
+💡 Feel free to explore each project and use them as a reference for learning HTML basics.
