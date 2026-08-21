@@ -5,7 +5,7 @@ Each project demonstrates different HTML tags, structures, and concepts.
 
 ## 📂 Projects Included
 
-1. [My Personal Homepage](https://your-username.github.io/your-repo-name/homepage.html)
+1. [My Personal Homepage](https://your-username.github.io/your-repo-name/1_My_Personal_Homepage.html)
 2. [My Resume (Normal Format)](https://your-username.github.io/your-repo-name/resume.html)
 3. [My Resume (Table Format)](https://your-username.github.io/your-repo-name/resume-table.html)
 4. [Chessboard](https://your-username.github.io/your-repo-name/chessboard.html)
