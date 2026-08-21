@@ -15,7 +15,8 @@ Each project demonstrates different HTML tags, structures, and concepts.
 9. Table Showcase
 10. Portfolio Mockup
 11. Hyperlinked Quest
-12. A Taco Shop Webpage
+12. MyBlog Post Page
+13. A Taco Shop Webpage
 
 
 ## 🚀 How to View
@@ -54,6 +55,7 @@ Each project demonstrates different HTML tags, structures, and concepts.
   <li><strong>Table Showcase</strong> → Demonstrates table features like <code>thead</code>, <code>tfoot</code>, <code>scope</code>.</li>
   <li><strong>Portfolio Mockup</strong> → A sample portfolio page with sections, images, and navigation.</li>
   <li><strong>Hyperlinked Quest</strong> → Page focused on hyperlinks and navigation between sections.</li>
+  <li><strong>Blog Post Page</strong> → A semantic blog article with headings, lists, images, quotes, and code samples.</li>
   <li><strong>A Taco Shop Webpage</strong> → Multi‑page mini‑site with About, Menu, Hours, and Contact pages.</li>
 </ol>
 
