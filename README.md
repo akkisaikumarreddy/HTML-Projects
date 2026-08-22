@@ -1,6 +1,6 @@
 # HTML Projects Collection
 
-This repository contains 12 beginner-friendly projects built using **pure HTML** (no CSS or JavaScript).  
+This repository contains 13 beginner-friendly projects built using **pure HTML** (no CSS or JavaScript).  
 Each project demonstrates different HTML tags, structures, and concepts.
 
 ## 📂 Projects Included
@@ -47,16 +47,16 @@ Each project demonstrates different HTML tags, structures, and concepts.
   <li><strong>My Personal Homepage</strong> → Basic structure with headings, paragraphs, and links.</li>
   <li><strong>My Resume (Normal Format)</strong> → Resume layout using text formatting and lists.</li>
   <li><strong>My Resume (Table Format)</strong> → Resume presented in a table with headers and rows.</li>
-  <li><strong>Chessboard</strong> → Table layout to create a grid pattern.</li>
-  <li><strong>Animation of Moving Emojis (Version 1)</strong> → Simple emoji movement using HTML entities.</li>
-  <li><strong>Animation of Moving Emojis (Version 2)</strong> → Alternate version with different emoji placement.</li>
-  <li><strong>Job Searching Workshop</strong> → Informational page with headings, lists, and links.</li>
-  <li><strong>Favorite Recipe</strong> → Recipe page using lists, images, and semantic tags.</li>
-  <li><strong>Table Showcase</strong> → Demonstrates table features like <code>thead</code>, <code>tfoot</code>, <code>scope</code>.</li>
+  <li><strong>Chessboard</strong> → Created a chess board with dimensions of 8x8 grid with the help of HTML only.</li>
+  <li><strong>Animation of Moving Emojis (Version 1)</strong> → I created a animation of moving clouds and a dog on rode in opposite directions with the help of HTML (used Emojis for clouds, dog).</li>
+  <li><strong>Animation of Moving Images (Version 2)</strong> → I created a animation of moving clouds and a dog on rode in opposite directions with the help of HTML (used Images for clouds, dog).</li>
+  <li><strong>Job Searching Workshop</strong> → Created an Job Searching Workshop Webpage, using all HTML Tags</li>
+  <li><strong>Favorite Recipe</strong> → Recipe page about the recipe and how to make the recipe using lists, images, and semantic tags.</li>
+  <li><strong>Table Showcase</strong> → Compare the best laptops in 2026 India by bemonstrating table features like <code>thead</code>, <code>tfoot</code>, <code>scope</code>.</li>
   <li><strong>Portfolio Mockup</strong> → A sample portfolio page with sections, images, and navigation.</li>
-  <li><strong>Hyperlinked Quest</strong> → Page focused on hyperlinks and navigation between sections.</li>
+  <li><strong>Hyperlinked Quest</strong> → To study about our solar system and planets with the help of hyperlinks and navigation between sections.</li>
   <li><strong>Blog Post Page</strong> → A semantic blog article with headings, lists, images, quotes, and code samples.</li>
-  <li><strong>A Taco Shop Webpage</strong> → Multi‑page mini‑site with About, Menu, Hours, and Contact pages.</li>
+  <li><strong>A Taco Shop Webpage</strong> → It is a Taco Shop Website with Multi‑page and  mini‑site with About, Menu, Hours, and Contact pages.</li>
 </ol>
 
 
