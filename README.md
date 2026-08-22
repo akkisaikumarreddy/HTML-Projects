@@ -42,7 +42,7 @@ Each project demonstrates different HTML tags, structures, and concepts.
 </ul>
 
 🎯 Purpose
-<p>This repository is meant for <strong>practicing and showcasing HTML fundamentals</strong> through 12 different projects:</p>
+<p>This repository is meant for <strong>practicing and showcasing HTML fundamentals</strong> through 13 different projects:</p>
 <ol>
   <li><strong>My Personal Homepage</strong> → Basic structure with headings, paragraphs, and links.</li>
   <li><strong>My Resume (Normal Format)</strong> → Resume layout using text formatting and lists.</li>
