@@ -4,19 +4,21 @@ This repository contains 13 beginner-friendly projects built using **pure HTML**
 Each project demonstrates different HTML tags, structures, and concepts.
 
 ## 📂 Projects Included
-1. My Personal Homepage
-2. My Resume (Normal Format)
-3. My Resume (Table Format)
-4. Chessboard
-5. Animation of moving emojis 
-6. Animation of moving emojis 
-7. Job Searching Workshop
-8. Favorite Recipe
-9. Table Showcase
-10. Portfolio Mockup
-11. Hyperlinked Quest
-12. MyBlog Post Page
-13. A Taco Shop Webpage
+<ol>
+                <li>Created My Personal Homepage using HTML <a href="1_My_Personal_Homepage.html" target="_blank">About My_Self</a></li>
+                <li>Created My Resume using HTML <a href="2_My_Resume(Normal_Format).html" target="_blank">About My Resume(Normal Format)</a></li>
+                <li>Created My Resume using HTML <a href="3_My_Resume(Table_Format).html" target="_blank">About My Resume(Table Format)</a></li>
+                <li>Created a Chessboard using HTML <a href="4_Chessboard.html" target="_blank">HTML_Chessboard</a></li>
+                <li>Created an Emoji Animation Using HTML <a href="5_Animation_using_Emojis.html" target="_blank">Html_Moving Emojis clouds and Dog Animation</a></li>
+                <li>Created an Image Animation using HTML <a href="6_Animation_using_Images.html" target="_blank">HTML_Moving Images of Clouds and Dog Animation</a></li>
+                <li>Created an Job Searching Sessions WebPage Using HTML <a href="7_Job_Searching_Workshop_WebSite.html" target="_blank">Job_Searching_Sessions</a></li>
+                <li>Created My Favorite Recipe Webpage Using HTML <a href="8_Favorite_recipe.html" target="_blank">Favorite Recipe</a></li>
+                <li>Created an Table Showcase by comparing best laptops<a href="9_Table_Showcase.html" target="_blank">Laptop Table Showcse</a></li>
+                <li>Created an Portfolio Webpage using HTML <a href="10_Portfolio_Mockup.html" target="_blank">My Portfolio</a></li>
+                <li>Created to study our solar systems with the help of hyperlinked quest <a href="11_HyperLinked_quest.html" target="_blank">Our Solar Sytem</a></li>
+                <li>Created an Blog using HTML <a href="12_myblog.html" target="_blank">MyBlog</a></li>
+                <li>Created an Taco Shop Webpage using HTML <a href="A_TACO_SHOP_WEBPAGE">The TacoShop Webpage</a></li>                         
+</ol>
 
 
 ## 🚀 How to View
