@@ -49,7 +49,7 @@ Each project demonstrates different HTML tags, structures, and concepts.
   <li><strong>My Resume (Table Format)</strong> → Resume presented in a table with headers and rows.</li>
   <li><strong>Chessboard</strong> → Table layout to create a grid pattern.</li>
   <li><strong>Animation of Moving Emojis (Version 1)</strong> → Simple emoji movement using HTML entities.</li>
-  <li><strong>Animation of Moving Emojis (Version 2)</strong> → Alternate version with different emoji placement.</li>
+  <li><strong>Animation of Moving Images (Version 2)</strong> → Alternate version by replacing emojis with images.</li>
   <li><strong>Job Searching Workshop</strong> → Informational page with headings, lists, and links.</li>
   <li><strong>Favorite Recipe</strong> → Recipe page using lists, images, and semantic tags.</li>
   <li><strong>Table Showcase</strong> → Demonstrates table features like <code>thead</code>, <code>tfoot</code>, <code>scope</code>.</li>
