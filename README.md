@@ -50,8 +50,8 @@ Each project demonstrates different HTML tags, structures, and concepts.
   <li><strong>My Resume (Normal Format)</strong> → Resume layout using text formatting and lists.</li>
   <li><strong>My Resume (Table Format)</strong> → Resume presented in a table with headers and rows.</li>
   <li><strong>Chessboard</strong> → Created a chess board with dimensions of 8x8 grid with the help of HTML only.</li>
-  <li><strong>Animation of Moving Emojis (Version 1)</strong> → I created a animation of moving clouds and a dog on rode in opposite directions with the help of HTML (used Emojis for clouds, dog).</li>
-  <li><strong>Animation of Moving Images (Version 2)</strong> → I created a animation of moving clouds and a dog on rode in opposite directions with the help of HTML (used Images for clouds, dog).</li>
+  <li><strong>Animation of Moving Emojis (Version 1)</strong> → I created a animation of moving clouds and a dog on rode moving in opposite directions with the help of HTML (used Emojis for clouds, dog).</li>
+  <li><strong>Animation of Moving Images (Version 2)</strong> → I created a animation of moving clouds and a dog on rode moving in opposite directions with the help of HTML (used Images for clouds, dog).</li>
   <li><strong>Job Searching Workshop</strong> → Created an Job Searching Workshop Webpage, using all HTML Tags</li>
   <li><strong>Favorite Recipe</strong> → Recipe page about the recipe and how to make the recipe using lists, images, and semantic tags.</li>
   <li><strong>Table Showcase</strong> → Compare the best laptops in 2026 India by bemonstrating table features like <code>thead</code>, <code>tfoot</code>, <code>scope</code>.</li>
